@@ -1,7 +1,8 @@
 # Compound-interest-calculator
-Compound Interest Calculator Project
+A compound interest calculator designed to compute and display the future value of an investment. Built with C#
 
-This project focuses on the principles of the sequencing structure
+Compound Interest Calculator Project
+This project focuses on the principles of the sequencing structure.
 
 * Purpose: To compute and display the future value of an investment using the principal amount, interest rate, number of years, and the number of times the interest is compounded per year. 
 * 
